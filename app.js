@@ -1,5 +1,5 @@
-const wrapper = document.querySelector(".sliderWrapper");
-const menuItems = document.querySelectorAll(".menuItem");
+const wrapper = document.querySelector(".sliderWrapper"); // queries means manipulate the part of html element 
+const menuItems = document.querySelectorAll(".menuItem");   // taking menuitem
 
 const products = [
   {
